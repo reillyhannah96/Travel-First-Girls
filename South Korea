@@ -1,1 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <link rel="icon" href="icon.png" type="image/gif" sizes="24x24">
+  <title>South Korea</title>
+  <h1>South Korea <img src="Flag_of_South_Korea.svg" alt="Flag_of_South_Korea" style="width:120px;height:120px;"> </h1>
+  <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
+<style>
+body {
+    background-color:#D6EAF8;
+    font-family: 'Josefin Sans';font-size: 22px;
+}
+
+h1 {
+  color:#2980B9;
+  text-align: center;
+}
+
+h2 {
+  color:#2980B9;
+
+}
+
+</style>
+</head>
+<body>
+ <nav>
+    <ul>
+      <li><a href="#Introduction">Introduction</a></li>
+      <li><a href="#What to See">What to see?</a></li>
+      <li><a href="#Food">Food</a></li>
+      <li><a href="#Transport">Transport</a></li>
+      <li><a href="#Where to stay">Where to stay?</a></li>
+      <li><a href="#Language tips">Language Tips</a></li>
+      <li><a href="#Food">Food</a></li>
+      <li><a href="#Safety">Safety</a></li>
+      <li><a href="#Media">Media</a></li>
+    </ul>
+  </nav>
+  <div id="Introduction">
+    <h2>Introduction</h2>
+    
+    <p>South Korea is the capital of K-pop as we all know, but it is not just that. South Korea is a country with a fascinating culture.  For a long time, South Korea lived in the shadow of its more powerful and well-known neighbours, namely Japan and China. South Korea was like the middle child of Asia: unknown and ignored at best or just seen an ersatz of Japan at worst. </p>
+    <p>I feel like I have personal relationship with South Korea and the Korean peninsula in general. I practised Taekwondo, the national martial arts, from age 7 to 10 and this is how I learned to count from 1 to 10 in Korean (stay tuned as I’ll give you more language tips in this article). During my second and third year of university (2011-2012) I met awesome Korean people that I now consider my friends. So naturally, in 2015, I decided to visit South Korea and it was one of my best trips ever. In this article I’ll give you some tips to successfully discover Korea. </p>
+      <p>Are you ready? </p>
+      <img src="Seoul subway.jpg" alt="Seoul subway" style="width:380px;height:320px;">
+     
+  </div>
+
+  <div id="What to See">
+    <h2>What to see?</h2>
+
+    <p>I'm going to focus on 3 cities: Seoul, Busan and Jeju island.</p>
+
+    <p>Seoul is the capital of South Korea and this is where most tourists get in the country via the Incheon International airport. There are lots of things to do in Seoul but in my opinion, you shouldn’t miss:</p>
+    <ul>
+      <li>Gyeongbokgung Park</li>
+      <li>Gwanghwamun Square</li>
+      <li>Lotte World</li>
+      <li>Bukhansan National Park</li>
+      <li>Gangnam</li>
+    </ul>
+    <img src="gagnam style.jpg" alt="gagnam style" style="width:420px;height:315px;">
+    <img src="palace.jpg" alt="palace" style="width:420px;height:315px;">
+    <video width="320" height="240" controls>
+      <source src="Video_palace.mp4" type="video/mp4">
+
+    <p>Busan is lesser known, but it is the second largest city in Korea. It is located in the extreme south of the peninsula and it is close to the sea. From Seoul you can take the KTX (Korean high-speed train) to get to Busan and it takes roughly 2H15 minutes. Busan is a nice mix between the sea (it is host of the biggest port in Korea) and the mountains. Once you get there, I recommend the following activities: </p>
+    <ul>
+      <li>Busan Tower</li>
+      <li>Cimer Spa</li>
+      <li>Gamcheon Culture Village</li>
+   </ul>
+   <p>Jeju Island is the treasure of Korea. It is famous for its luxurious nature. Many newlywed Korean couples go there for their honeymoon. It is one hour away from Seoul by plane and there are several low-costs companies offering daily flights between Jeju island and Seoul. 
+    Once in Jejudo (as the Korean call it) I recommend the following activities: 
+    </p>
+    <ul>
+      <li>Mount Hallasan</li>
+      <li>Cheonjeyeon Waterfall</li>
+      <li>Manjanggul Cave</li>
+      <li>Jeju Waterworld</li>
+   </ul>
+  </div>
+
+  <div id="Food">
+    <h2>Food</h2>
+    <p>Korea has a rich gastronomy and I was absolutely delighted with the food there. Quality restaurants are plentiful, and they are very famous for their "BBQ" style tables. I don’t have any addresses in mind but if you go to Korea you should absolutely try the following dishes: </p>
+    <ul>
+      <li>Kimchi</li>
+      <li>Bibimbap (mixed rice)</li>
+      <li>Bulgogi (marinated beef barbecue)</li>
+   </ul>
+
+    <img src="BBQrestaurant.jpg" alt="BBQrestaurant" style="width:420px;height:315px;">
+    <video width="320" height="240" controls>
+      <source src="food.mp4" type="video/mp4">
+   
+  </div>
+
+  <div id="Transport">
+    <h2>Transport</h2>
+    <p>Getting to Korea from the UK takes, if you take a direct flight, 11 hours. The main airlines regularly connecting London (any airport) to Seoul (Incheon airport) are Korean Air, British Airways, Finnair, Asiana Airline, Air France, Lufthansa and Etihad Airways. Asiana Airline in my opinion has the best quality / price ratio. My flight was direct and the service on board was excellent! </p>
+    <p>And then, how do you get and move around in Seoul? No panic! Korea has an excellent public transport system. I was mostly using the subway while I was there. You can buy a T-money card which allows you to use subway and buses. The card itself costs 500 Won (~ £0.33) and the minimum top-up is 2500 Won ( ~ £1,66). The Seoul subway is operational from 5:30 to 24:00 (1 AM, next day). However, some train lines close before the 1 am cut off</p>
+
+    <img src="Seoul subway (2).jpg" alt="Seoul subway (2)" style="width:420px;height:315px;">
+  </div>
+
+  <div id="Where to stay">
+    <h2>Where to stay?</h2>
+    <p>When it comes to accommodation, I think comfort is essential no matter what your budget is. I’m going to give you three accommodation options for your stay in Seoul.</p>
+    <ul>
+      <li>Hotels</li>
+      <li>Guesthouses </li>
+      <li>Jim-Jil-Bang </li>
+   </ul>
+   <img src="jimjilbang.jpg" alt="jimjilbang" style="width:420px;height:315px;">
+  </div>
+
+  <div id="Language tips">
+    <h2>Language tips</h2>
+    <p>Korean may seem difficult at first glance, but it is quite easy to learn thanks to its alphabet. The Korean alphabet is called the “Hangul “and has 24 letters. You can learn more about the Korean alphabet here (click here).</p>
+    <p>For the purpose of this article, I’ll only give you what I call the survival phrases: </p>
+    <ul>
+      <li>Hello -> 안녕하세요! -> Ann.yeong.ha.se.yo 
+        <audio controls>
+        <source src="translate_1.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </li>
+      <li>Goodbye (when leaving) -> 안녕히 계십시오 -> Ann.yeong.hi.gye.sib.si.o
+        <audio controls>
+          <source src="translate_2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio>
+      </li>
+      <li>Goodbye (when staying) -> 안녕히 가세요! -> Ann.yeong.hi.ga.se.yo 
+        <audio controls>
+        <source src="translate_3.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio></li>
+      <li>Thank you -> 감사합니다 -> Gam.sa.hab.ni.da
+        <audio controls>
+          <source src="translate_4.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio>
+      </li>
+      <li>Yes / No -> 네. / 아니. -> Ne / Ani 
+        <audio controls>
+        <source src="translate_5.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </li>
+      <li>Sorry -> 미안해요 -> Mian.hae.yo
+        <audio controls>
+        <source src="translate_6.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </li>
+      <li>I don’t understand -> 못 알아들었어요-> Mos.al.adeul-eoss.eoyo 
+        <audio controls>
+        <source src="translate_7.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </li>
+      <li>How much is it? -> 얼마예요? -> Eol.ma.ye.yo? 
+        <audio controls>
+        <source src="translate_8.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </li>
+      <li>Where are the toilets? -> 화장실이 어디에요 -> Hwa.jang.sil.i.eo.di.eyo? 
+        <audio controls>
+        <source src="translate_9.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    </li>
+    </ul>
+      <p>Counting from 1 to 10:</p>
+      <p>The Korean counting system is a bit strange because they have two systems: </p>
+      <ul>
+        <li>Pure Korean numbers</li>
+        <li>Sino-Korean numbers</li>
+      </ul>
+      <p>Pure Korean numbers:</p>
+        <ol>
+          <li>하나 -> Hana <audio controls>
+            <source src="translate_10.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>둘 -> Dhul<audio controls>
+            <source src="translate_11.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>셋 -> Sehtt <audio controls>
+            <source src="translate_12.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>넷 -> Nehtt <audio controls>
+            <source src="translate_13.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>다섯-> Da-seot <audio controls>
+            <source src="translate_14.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>여섯 -> Yeo-seot<audio controls>
+            <source src="translate_15.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>일곱 -> Il-gop<audio controls>
+            <source src="translate_16mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>여덟-> Yuh-deol <audio controls>
+            <source src="translate_17.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>아홉 -> Ah-hop<audio controls>
+            <source src="translate_18.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>열 -> Yeol <audio controls>
+            <source src="translate_19.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+        </ol>
+
+        <p>Sino-Korean numbers:</p>
+        <ol>
+          <li>일 ->il <audio controls>
+            <source src="translate_20.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>이-> i (pronounced as “e”) <audio controls>
+            <source src="translate_21.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>삼 -> sam <audio controls>
+            <source src="translate_22.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>사 -> sa <audio controls>
+            <source src="translate_23.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>오 -> o <audio controls>
+            <source src="translate_24.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>육 -> yuk <audio controls>
+            <source src="translate_25.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>칠 -> chil <audio controls>
+            <source src="translate_26.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>팔 -> pal <audio controls>
+            <source src="translate_27.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>구-> gu <audio controls>
+            <source src="translate_28.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+          <li>십 -> ship <audio controls>
+            <source src="translate_29.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio></li>
+        </ol>  
+   </div>
+   <div id="Safety">
+    <h2>Safety</h2>
+    <p>South Korea has the reputation of being a very safe country and it was my experience as well. I felt very comfortable and safe everywhere I went. Travelling to Korea as a solo female is generally not issue however you should still follow some basic safety rules: </p>
+    <ul>
+      <li>Do not give the address of your hotel to a stranger </li>
+      <li>Steer clear of drugs</li>
+      <li>Write down emergency info and keep it in your wallet</li>
+      <li>Lock up your valuable items </li>
+   </ul>
+
+  </div>
+  <div id="Media">
+    <h2>Media</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WW29mQRxdgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vVF5Qpy2aEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  </div>
+</body>
+
+</html>
