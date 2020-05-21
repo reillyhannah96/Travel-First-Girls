@@ -1,1 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="SouthAfrica.css">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<head>
+<body>
 
+<div class="topnav">
+<a class="active" href="#home">Home</a>
+<a href="#africa">Africa</a>
+<a href="#antarctica">Antarctica</a>
+<a href="#asia">Asia</a>
+<a href="#europe">Europe</a>
+<a href="#northamerica">North America</a>
+<a href="#southamerica">South America</a>
+<a href="#contact">Contact Us</a>
+</div>
+
+
+    <div>
+    <h1>South Africa!</h1>
+<p>Is South Africa safe for solo female travellers? Although the general feeling is that only the brave venture here on their own, South Africa should be on the favourite destinations list. Not only is it safe to travel to South Africa (within the limits of common sense applicable to any other countries), but it is also one of the best places for solo female travellers due to the variety of things to do. However, it is not recommended for first-time solo travellers. If this is the case, it is preferable to join a group tour instead. From cosmopolitan cities such as Cape Town, wine routes, historical sites, to unforgettable safari experiences, e.g. Mpumalanga and Kruger National Park, there is something to do for everyone. South Africa is the sixth world’s megadiverse countries, home to a large variety of wild animals.  </p>
+    <main>
+        <h2>What To See</h2>
+<p>Here are the top five places to visit in South Africa:</p>
+<p><strong>1. Cape Town -</strong> The city is the most vibrant and cosmopolitan part in the African continent. Cape Town is a fantastic destination for solo female travellers. It is perfect for shopping, wine sampling, walks, hiking and boat rides across spectacular scenery. Then there is Bo Kaap, a collection of brightly coloured houses that keep their doors open and you can smell the delicious Cape Malay food. And, if you love penguins (who doesn’t?), you can walk and even swim with them on Boulders Beach. </p>
+<p><strong>2.	KwaZulu-Natal -</strong>This province reflects what South Africa stands for: wildlife, mountains, beaches, and approachable local culture. The industrial hub of Durban is home to a potent mixture of cultural backgrounds. Go to Hluhluwe-iMfolozi Park to see both white and black rhinos, a unique experience, rare in the world. </p>
+<p><strong>3. Mpumalanga -</strong> East from Gauteng to Mozambique and Swaziland, this province is also named the ‘the land of the rising sun’ and one of the best destinations for wildlife safaris. Experience this epic journey in an open vehicle conducted by well-informed rangers. </p>
+<p><strong>4. The Winelands -</strong> This region is all about eating, drinking and relaxation, and the towns still echo the Dutch colonial heritage. Stellenbosch, Paarl, Franschhoek and Somerset West are captivating for their natural attractions. Paarl, the third-oldest town in South Africa, that was visited by Charles Darwin in 1836, is overlooked by the Taal Monument, an Afrikaans icon.</p>
+<p><strong>5. The Garden Route -</strong> Holding the legendary status of South Africa’s paradise, this coastal plain stretches between Mossel Bay and Storms River Mouth. Forests, hills and swimming beaches provide great outdoor adventures such as hiking, marine safaris and tubing along the river valley. </p>
+</div>
+
+<div class="Images">
+<img src="https://www.traveldailymedia.com/assets/2019/06/south-africa-tourism.jpg"/>alt="Cape Town" width="420" height="315"/>
+<img src="https://www.bigworldsmallpockets.com/wp-content/uploads/2019/02/South-Africa-Cape-Town-Me-in-Bo-Kaap.jpg"/>alt="Bo Kaap street" width="420" height="315"/>
+<img src="https://www.bigworldsmallpockets.com/wp-content/uploads/2019/02/South-Africa-Cape-Town-Penguins.jpg"/>alt="Boulders Beach penguins" width="420" height="315"/>
+</div>
+
+<div>
+<h2>Food</h2>
+<p>One of the extras when travelling to a new country is that you can experience the local cuisine prepared with local produce. Most South Africa’s hotels and guesthouses offer a British style cuisine. For those that want to immerse into the local culture further, here is a list of the best-known foods in South Africa to try out:</p>
+<p><strong>1. Braais -</strong>Central to their national identity, this meat grill is also a social event and probably the only time to see a South African man cooking. Huge steaks, lamb cutlets and boerewors (farmer’s sausage) accompanied by aluminium foil wrapped vegetables are the traditional barbeque ingredients. Family and friends gather by the fire and serve gallons of beer. </p>
+<p><strong>2. Potjiekos and boerekos  -</strong> Butter and sugar rich stews prepared in pots, these foods are made of meat and vegetables cooked indoors or outside on a log fire. </p>
+<p><strong>3. Cape Malay  -</strong> Mild, semi-sweet curries, found mostly in Cape Town. This cooking style has been brought to South Africa by Asian and Madagascan slaves, and presents strong Indonesian influences.  </p>
+<p><strong>4. Bunny Chow -</strong> Cheap takeaway consisting of a hollow half-loaf of white bread filled with curried beans, chicken, or sardines. </p>
+<p><strong>5. Malva -</strong> Rich pudding made of milk, sugar, cream, and apricot jam.  </p>
+</div>
+
+<div>
+<img src="https://www.contiki.com/v-ch19uisxqilw/-/media/operational-regions/cc-pages/south-africa/south-africa.jpg?w=1280&hash=4AF44E631CA30BCDE0A89AAA4BFA08C76323EC9F" alt="South African city panorama" width="420" height="315"/>
+<img src="https://www.hayesandjarvis.co.uk/sites/default/files/styles/hero_breakpoints_theme_hnj_theme_md_1x/public/images/hero/600027_elephant_about_to_cross_the_road_in_front_of_a_game_drive_in_kruger_national_park.jpg?itok=lXyhbX28" alt="Safari in Kruger National Park" width="420" height="315"/>
+
+<p><strong>For a list of some unmissable cafes and restaurants in Cape Town, <a href="https://galavante.com/travel/destination/what-do-and-where-eat-cape-town" target="_blank">click here.</strong></a> </p>
+</div>
+<div>
+<h2>Transport</h2>
+<p>Getting around in South Africa is easy only in some parts of the country. Therefore, advance research can save a lot of trouble and give you more confidence while you are there. </p>
+<p>Public Transport: Several companies run busses in the country, including Greyhound, Intercape, and Baz Bus. Baz Bus caters mainly backpackers, so a great way to meet fellow travellers and they serve the popular routes between major cities or tourist attractions. Greyhound and Intercape busses are suitable for longer journeys, are comfortable and are filled with local people. Train travel is comfortable and safe, and the prices are the lower than any other transportation means.</p>
+<p>Cars: Car rental in South Africa is cheap, and although driving here holds a bad reputation, with necessary precautions risks are significantly reduced.</p> 
+<p>Taxis: A great option for short distance trips, especially at night when it is not advised to travel alone. </p>
+<p>Planes: Flying within South Africa is a suitable option to travel. The prices are comparable to the bus tickets and even last-minute flights on major routes stay unchanged.</p>
+</div>
+
+<div>
+<h2>Where To Stay</h2>
+<p>Accommodation in South Africa varies by price and type, boasting of excellent choice for every budget and expectations. </p> 
+<p><strong>From hostels to luxury hotels, <a href="https://www.safarinow.com/destinations/south-africa/hub.aspx" target=_blank">click here.</strong></a> to check average prices per night.</p> 
+</div>
+
+<div>
+<h2>Language Tips</h2>
+<p>Doesn’t everyone speak English? The answer to that is no. This is why it is important to be prepared when travelling to countries where the majority of the population speaks a different language. A dictionary is useful, and also there are some key phrases to learn that will show respect to the locals and will make getting around slightly easier. </p>
+<p>Furthermore, knowing the local etiquette could go a long way in ensuring your stay is pleasurable. For example, avoid conversations about religion, politics, and racism. Also, always communicate face to face as this is important to South Africans.  </p>
+<p>South Africa recognises 11 official languages, including Zulu, Xhosa, English, Afrikaans (derived from Dutch), Northern Sotho, Tswana. Less than half of people speak English, being the second most common language after Zulu. White South Africans may also speak other European languages such as Italian, French, Portuguese, German, Greek and French. Indian South Africans may speak Indian languages such as Gujarati, Hindi, and Urdu.</p>
+<p>Key phrases in Afrikaans: </p>
+<li>Hello – Hallo (hal-low)</li>
+<li>Thank you – Dankie (dahn-key)</li>
+<li>Please – Asseblief (ah-she-bleef)</li>
+<li>Good-bye – Totsiens (tot-seens)</li>
+<li>Do you speak English? – Praat jy Engels? (praat yay enn-els)</li>
+
+<div>
+<h2>Safety</h2>
+<p>The UK government advises that out of over 430,000 British tourists that travel to South Africa each year, only a small number of them encounter problems.  British nationals are targeted for scams, but there are alerts regarding the high level of crime, including theft, rape, and murder. As such, it is best to avoid isolated areas, townships, walking at night, displaying valuable objects. Also, it is best to limit alcohol intake, and never leave drinks unattended.  </p>
+<p>As general travel rules, always carry a photo ID with you, know where you are going and how you will get there. If possible, let someone know of your whereabouts if you are going in remote locations. Again, using common sense would help you stay safe and enjoy your journey in a magnificent country that is South Africa. </p>
+</div>
+
+<div>
+    <p>For more useful tips about visiting South Africa, why not have a look at an inspiring selection of travel vlogs?!</p>
+
+    <div class="Videos">
+    <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=zNx5F8htBvo">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=opqyCdUz1P8">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=sQPXvtJQ9p4">
+</iframe>
+</div>
+
+</main>
+</body>
+</html>
