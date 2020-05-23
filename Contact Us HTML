@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,7 +30,7 @@
               <i class="fa fa-caret-down"></i>
               </button>
               <div class="dropdown-content">
-              <a class="active" a href="#">New Zealand</a>
+              <a href="#">New Zealand</a>
       </div>
     </div>
   <a href="#europe">Europe</a>
@@ -44,7 +43,7 @@
             <a href="#">Chile</a>
       </div>
     </div>
-  <a href="#contactus">Contact Us</a>
+  <a class="active" a href="#contactus">Contact Us</a>
     </div>
 
 <h1>Contact Us</h1>
