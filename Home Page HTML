@@ -6,17 +6,45 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <body>
 
-<div class="topnav">
-        <a href="#home">Home</a>
-        <a href="#africa">Africa</a>
-        <a href="#antarctica">Antarctica</a>
-        <a href="#asia">Asia</a>
-        <a href="#australasia">Australasia</a>
-        <a href="#europe">Europe</a>
-        <a href="#northamerica">North America</a>
-        <a href="#southamerica">South America</a>
-        <a class="active" href="#contact">Contact Us</a>
-</div>
+<div class="navbar">
+<a class="active" href="#home">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Africa
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">South Africa</a>
+    </div>
+  </div>
+ <a href="#antarctica">Antarctica</a>
+    <div class="dropdown">
+        <button class="dropbtn">Asia
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">South Korea</a>
+        </div>
+      </div>
+ <div class="dropdown">
+            <button class="dropbtn">Australasia
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="#">New Zealand</a>
+    </div>
+  </div>
+<a href="#europe">Europe</a>
+<a href="#northamerica">North America</a>
+<div class="dropdown">
+        <button class="dropbtn">South America
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Chile</a>
+    </div>
+  </div>
+<a href="#contactus">Contact Us</a>
+  </div>
 
 <div class = "container">
      <h1>Travel First Girls!</h1>
