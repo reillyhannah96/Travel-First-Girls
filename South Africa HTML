@@ -51,9 +51,25 @@
     <div id = "Introduction">
          <div>
          <h1>South Africa!</h1>
-         
+
+<nav>
+    <ul>
+      <li><a href="#Introduction">Introduction</a></li>
+      <li><a href="#What to See">What to see?</a></li>
+      <li><a href="#Food">Food</a></li>
+      <li><a href="#Transport">Transport</a></li>
+      <li><a href="#Where to stay">Where to stay?</a></li>
+      <li><a href="#Language tips">Language Tips</a></li>
+      <li><a href="#Food">Food</a></li>
+      <li><a href="#Safety">Safety</a></li>
+      <li><a href="#Media">Media</a></li>
+    </ul>
+  </nav>
+
+<h2> Introduction</h2>
 <p>Is South Africa safe for solo female travellers? Although the general feeling is that only the brave venture here on their own, South Africa should be on the favourite destinations list. Not only is it safe to travel to South Africa (within the limits of common sense applicable to any other countries), but it is also one of the best places for solo female travellers due to the variety of things to do. However, it is not recommended for first-time solo travellers. If this is the case, it is preferable to join a group tour instead. From cosmopolitan cities such as Cape Town, wine routes, historical sites, to unforgettable safari experiences, e.g. Mpumalanga and Kruger National Park, there is something to do for everyone. South Africa is the sixth world’s megadiverse countries, home to a large variety of wild animals.  </p>
     <main>
+        <div id = "What to See"></div>
         <h2>What To See</h2>
 <p>Here are the top five places to visit in South Africa:</p>
 <p><strong>1. Cape Town -</strong> The city is the most vibrant and cosmopolitan part in the African continent. Cape Town is a fantastic destination for solo female travellers. It is perfect for shopping, wine sampling, walks, hiking and boat rides across spectacular scenery. Then there is Bo Kaap, a collection of brightly coloured houses that keep their doors open and you can smell the delicious Cape Malay food. And, if you love penguins (who doesn’t?), you can walk and even swim with them on Boulders Beach. </p>
@@ -70,6 +86,7 @@
 </div>
 
 <div>
+<div id = "Food"></div>
 <h2>Food</h2>
 <p>One of the extras when travelling to a new country is that you can experience the local cuisine prepared with local produce. Most South Africa’s hotels and guesthouses offer a British style cuisine. For those that want to immerse into the local culture further, here is a list of the best-known foods in South Africa to try out:</p>
 <p><strong>1. Braais -</strong>Central to their national identity, this meat grill is also a social event and probably the only time to see a South African man cooking. Huge steaks, lamb cutlets and boerewors (farmer’s sausage) accompanied by aluminium foil wrapped vegetables are the traditional barbeque ingredients. Family and friends gather by the fire and serve gallons of beer. </p>
@@ -86,6 +103,7 @@
 <p><strong>For a list of some unmissable cafes and restaurants in Cape Town, <a href="https://galavante.com/travel/destination/what-do-and-where-eat-cape-town" target="_blank">click here.</strong></a> </p>
 </div>
 <div>
+<div id = "Transport"></div>
 <h2>Transport</h2>
 <p>Getting around in South Africa is easy only in some parts of the country. Therefore, advance research can save a lot of trouble and give you more confidence while you are there. </p>
 <p>Public Transport: Several companies run busses in the country, including Greyhound, Intercape, and Baz Bus. Baz Bus caters mainly backpackers, so a great way to meet fellow travellers and they serve the popular routes between major cities or tourist attractions. Greyhound and Intercape busses are suitable for longer journeys, are comfortable and are filled with local people. Train travel is comfortable and safe, and the prices are the lower than any other transportation means.</p>
@@ -95,12 +113,14 @@
 </div>
 
 <div>
+<div id = "Where To Stay"></div>
 <h2>Where To Stay</h2>
 <p>Accommodation in South Africa varies by price and type, boasting of excellent choice for every budget and expectations. </p> 
 <p><strong>From hostels to luxury hotels, <a href="https://www.safarinow.com/destinations/south-africa/hub.aspx" target=_blank">click here.</strong></a> to check average prices per night.</p> 
 </div>
 
 <div>
+<div id = "Language Tips"></div>
 <h2>Language Tips</h2>
 <p>Doesn’t everyone speak English? The answer to that is no. This is why it is important to be prepared when travelling to countries where the majority of the population speaks a different language. A dictionary is useful, and also there are some key phrases to learn that will show respect to the locals and will make getting around slightly easier. </p>
 <p>Furthermore, knowing the local etiquette could go a long way in ensuring your stay is pleasurable. For example, avoid conversations about religion, politics, and racism. Also, always communicate face to face as this is important to South Africans.  </p>
@@ -113,6 +133,7 @@
 <li>Do you speak English? – Praat jy Engels? (praat yay enn-els)</li>
 
 <div>
+<div id = "Safety"></div>
 <h2>Safety</h2>
 <p>The UK government advises that out of over 430,000 British tourists that travel to South Africa each year, only a small number of them encounter problems.  British nationals are targeted for scams, but there are alerts regarding the high level of crime, including theft, rape, and murder. As such, it is best to avoid isolated areas, townships, walking at night, displaying valuable objects. Also, it is best to limit alcohol intake, and never leave drinks unattended.  </p>
 <p>As general travel rules, always carry a photo ID with you, know where you are going and how you will get there. If possible, let someone know of your whereabouts if you are going in remote locations. Again, using common sense would help you stay safe and enjoy your journey in a magnificent country that is South Africa. </p>
