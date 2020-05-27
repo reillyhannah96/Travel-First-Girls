@@ -8,20 +8,50 @@
 <head>
 <body>
 
-<div class="topnav">
-<a class="active" href="#home">Home</a>
-<a href="#africa">Africa</a>
-<a href="#antarctica">Antarctica</a>
-<a href="#asia">Asia</a>
-<a href="#europe">Europe</a>
-<a href="#northamerica">North America</a>
-<a href="#southamerica">South America</a>
-<a href="#contact">Contact Us</a>
-</div>
+  <div class="navbar">
+        <a href="#home">Home</a>
+        <div class="dropdown">
+          <button class="dropbtn">Africa
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">South Africa</a>
+          </div>
+        </div>
+       <a href="#antarctica">Antarctica</a>
+          <div class="dropdown">
+            <button class="dropbtn">Asia
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="#">South Korea</a>
+              </div>
+            </div>
+       <div class="dropdown">
+                  <button class="dropbtn">Australasia
+                  <i class="fa fa-caret-down"></i>
+                  </button>
+                  <div class="dropdown-content">
+                  <a class="active" a href="#">New Zealand</a>
+          </div>
+        </div>
+      <a href="#europe">Europe</a>
+      <a href="#northamerica">North America</a>
+      <div class="dropdown">
+              <button class="dropbtn">South America
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="#">Chile</a>
+          </div>
+        </div>
+      <a href="#contactus">Contact Us</a>
+        </div>
 
-
-    <div>
-    <h1>South Africa!</h1>
+    <div id = "Introduction">
+         <div>
+         <h1>South Africa!</h1>
+         
 <p>Is South Africa safe for solo female travellers? Although the general feeling is that only the brave venture here on their own, South Africa should be on the favourite destinations list. Not only is it safe to travel to South Africa (within the limits of common sense applicable to any other countries), but it is also one of the best places for solo female travellers due to the variety of things to do. However, it is not recommended for first-time solo travellers. If this is the case, it is preferable to join a group tour instead. From cosmopolitan cities such as Cape Town, wine routes, historical sites, to unforgettable safari experiences, e.g. Mpumalanga and Kruger National Park, there is something to do for everyone. South Africa is the sixth world’s megadiverse countries, home to a large variety of wild animals.  </p>
     <main>
         <h2>What To See</h2>
