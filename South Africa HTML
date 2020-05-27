@@ -99,9 +99,12 @@
 <div>
 <img src="https://www.contiki.com/v-ch19uisxqilw/-/media/operational-regions/cc-pages/south-africa/south-africa.jpg?w=1280&hash=4AF44E631CA30BCDE0A89AAA4BFA08C76323EC9F" alt="South African city panorama" width="420" height="315"/>
 <img src="https://www.hayesandjarvis.co.uk/sites/default/files/styles/hero_breakpoints_theme_hnj_theme_md_1x/public/images/hero/600027_elephant_about_to_cross_the_road_in_front_of_a_game_drive_in_kruger_national_park.jpg?itok=lXyhbX28" alt="Safari in Kruger National Park" width="420" height="315"/>
+</div>
 
+<div>
 <p><strong>For a list of some unmissable cafes and restaurants in Cape Town, <a href="https://galavante.com/travel/destination/what-do-and-where-eat-cape-town" target="_blank">click here.</strong></a> </p>
 </div>
+
 <div>
 <div id = "Transport"></div>
 <h2>Transport</h2>
@@ -131,6 +134,7 @@
 <li>Please – Asseblief (ah-she-bleef)</li>
 <li>Good-bye – Totsiens (tot-seens)</li>
 <li>Do you speak English? – Praat jy Engels? (praat yay enn-els)</li>
+</div>
 
 <div>
 <div id = "Safety"></div>
@@ -140,6 +144,8 @@
 </div>
 
 <div>
+<div id = "Media"></div>
+<h2>Media</h2>
     <p>For more useful tips about visiting South Africa, why not have a look at an inspiring selection of travel vlogs?!</p>
 
     <div class="Videos">
