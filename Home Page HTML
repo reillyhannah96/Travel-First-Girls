@@ -50,10 +50,19 @@
   </div>
 
 <div class = "container">
+div.c {
+  position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+}
+
      <h1>Travel First Girls!</h1>
      <p>Calling all female travellers: visit our blog posts for the best travel tips and information on food, languages, and much more!</p>
      <input type = "submit" value ="SIGN UP TO OUR NEWSLETTER">
 </div>
+
 
 </body>
 </html>
