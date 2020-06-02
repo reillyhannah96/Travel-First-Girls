@@ -2,29 +2,59 @@
 <html lang="en">
 
 <head>
+  <link rel="stylesheet" href="South_Korea.css">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="icon" href="icon.png" type="image/gif" sizes="24x24">
   <title>South Korea</title>
-  <h1>South Korea <img src="Flag_of_South_Korea.svg" alt="Flag_of_South_Korea" style="width:120px;height:120px;"> </h1>
-  <link href='https://fonts.googleapis.com/css?family=Josefin Sans' rel='stylesheet'>
-<style>
-body {
-    background-color:#D6EAF8;
-    font-family: 'Josefin Sans';font-size: 22px;
-}
-
-h1 {
-  color:#2980B9;
-  text-align: center;
-}
-
-h2 {
-  color:#2980B9;
-
-}
-
-</style>
-</head>
+<head>
+ 
 <body>
+
+  
+  <div class="navbar">
+    <a href="#home">Home</a>
+    <div class="dropdown">
+      <button class="dropbtn">Africa
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="#">South Africa</a>
+      </div>
+    </div>
+   <a href="#antarctica">Antarctica</a>
+      <div class="dropdown">
+        <button class="dropbtn">Asia
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a class="active" a href="#">South Korea</a>
+          </div>
+        </div>
+   <div class="dropdown">
+              <button class="dropbtn">Australasia
+              <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+              <a href="#">New Zealand</a>
+      </div>
+    </div>
+  <a href="#europe">Europe</a>
+  <a href="#northamerica">North America</a>
+  <div class="dropdown">
+          <button class="dropbtn">South America
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Chile</a>
+      </div>
+    </div>
+  <a href="#contactus">Contact Us</a>
+    </div>
+
+    <div id="Introduction">
+      <div>
+      <h1>South Korea <img src="Flag_of_South_Korea.svg" alt="Flag_of_South_Korea" style="width:120px;height:120px;"></h1>
  <nav>
     <ul>
       <li><a href="#Introduction">Introduction</a></li>
@@ -47,7 +77,7 @@ h2 {
       <img src="Seoul subway.jpg" alt="Seoul subway" style="width:380px;height:320px;">
      
   </div>
-
+  <main>
   <div id="What to See">
     <h2>What to see?</h2>
 
@@ -176,13 +206,13 @@ h2 {
       </audio>
     </li>
     </ul>
-      <p>Counting from 1 to 10:</p>
+      <p></p><strong> Counting from 1 to 10:</strong></p>
       <p>The Korean counting system is a bit strange because they have two systems: </p>
       <ul>
         <li>Pure Korean numbers</li>
         <li>Sino-Korean numbers</li>
       </ul>
-      <p>Pure Korean numbers:</p>
+      <p><strong>Pure Korean numbers:</strong></p>
         <ol>
           <li>하나 -> Hana <audio controls>
             <source src="translate_10.mp3" type="audio/mpeg">
@@ -209,7 +239,7 @@ h2 {
           Your browser does not support the audio element.
           </audio></li>
           <li>일곱 -> Il-gop<audio controls>
-            <source src="translate_16mp3" type="audio/mpeg">
+            <source src="translate_16.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
           </audio></li>
           <li>여덟-> Yuh-deol <audio controls>
@@ -226,7 +256,7 @@ h2 {
           </audio></li>
         </ol>
 
-        <p>Sino-Korean numbers:</p>
+        <p><strong>Sino-Korean numbers:</strong></p>
         <ol>
           <li>일 ->il <audio controls>
             <source src="translate_20.mp3" type="audio/mpeg">
@@ -286,11 +316,16 @@ h2 {
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WW29mQRxdgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vVF5Qpy2aEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
-    <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
 
   </div>
-</body>
+  </main>
+  
+  <p>Click below and feel free to check out out our social media, feel free to send us a message or ask any questions!</p>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <a href="#" class="fa fa-facebook"></a>
+  <a href="#" class="fa fa-twitter"></a>
+  <a href="#" class="fa fa-instagram"></a>
 
+</body>
 </html>
