@@ -99,5 +99,4 @@ color: #2980B9;
         left: 150px;
         width: 200px;
         height: 120px;
-        border: 3px solid green;
 } 
